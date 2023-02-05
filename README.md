@@ -1,4 +1,5 @@
 Budget Audio Surf - a clone of Audio Surf using Java
+
 (The flow/size of the coins are manually coded using maths) 
 
 Project is made in roughly 3 days during my 2nd semestre from scratch, enjoy :)
