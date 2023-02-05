@@ -1,4 +1,4 @@
-Budget Audio Surf - a clone of Audio Surf using Java
+Budget Audio Surf - a clone of Audio Surf (it has sound) using Java
 
 (The flow/size of the coins are manually coded using maths) 
 
